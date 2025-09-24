@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width,initial-scale=1"/>
-<title>Armeen — MP3 Converter (Browser)</title>
+<title>MP3 Converter </title>
 <style>
   body{font-family:Inter,system-ui,Arial;margin:0;background:#0b1220;color:#e6eef6;display:flex;align-items:center;justify-content:center;height:100vh;padding:18px}
   .card{width:100%;max-width:820px;background:linear-gradient(180deg,#071025,#081426);padding:20px;border-radius:12px;box-shadow:0 10px 40px rgba(0,0,0,0.6)}
